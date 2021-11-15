@@ -22,4 +22,9 @@ public class Operations {
 		
 	}
 
+	public static void deleteLastNode() {
+	
+		
+	}
+
 }
