@@ -32,4 +32,9 @@ public class Operations {
 		
 	}
 
+	public static void insertAfterSearchNode() {
+		
+		
+	}
+
 }
